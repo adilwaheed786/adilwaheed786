@@ -4,7 +4,7 @@
 
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilwaheed786"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adilwaheed786&layout=compact"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=adilwaheed786&layout=compact"/>
 <!--
 **adilwaheed786/adilwaheed786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
