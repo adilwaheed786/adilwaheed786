@@ -5,7 +5,7 @@
                       You can reach out to me via email at adilwaheed2222.com@gmail.com. I'm always open to new opportunities, collaborations, and discussions related to web development and .NET technologies.
 
 
-  | 🌐Skills and Technologies |
+  | Rank | THING-TO-RANK   
   |--------------------:|------------------------------|
   |Programming Languages| C#, JavaScript               |
   |     Web Development | ASP.NET, HTML, CSS, React    |
