@@ -15,9 +15,10 @@
   |     Web Development | ASP.NET, HTML, CSS, React    |
   |     Database        | SQL Server, MySQL            |
   |     Version Control | Git, GitHub                  |
-  
+
   
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adilwaheed786"/>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adilwaheed786&show_icons=true&locale=en" alt="adilwaheed786" /></p>
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=adilwaheed786&layout=compact"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=adilwaheed786&show_icons=true&locale=en" alt="adilwaheed786" />
+ 
 
