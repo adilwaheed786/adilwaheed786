@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there! I'm Adil Waheed</h1>
 <h3 align="center">Full-Stack .NET Developer</h3>
-
+<h5 align="center">Learning NestJs....</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilwaheed786&label=Profile%20views&color=0e75b6&style=flat" alt="adilwaheed786" /> </p>
 
   👋 Hi there! I'm Adil Waheed, a Full-Stack .NET Developer passionate about creating efficient and scalable web applications. With expertise in both front-end and back-end development, I strive to deliver high-quality solutions that meet client requirements and exceed expectations.
